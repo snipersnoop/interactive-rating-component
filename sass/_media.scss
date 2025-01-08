@@ -1,0 +1,90 @@
+@media (max-width: 1200px) {
+    body {
+      font-size: 17px;
+    }
+  
+    .rating-container,
+    .box-body {
+      width: 60%;
+    }
+  
+    .rating-button {
+      width: 60px;
+      height: 60px;
+      font-size: 1.3rem;
+    }
+  
+    .submit-button {
+      font-size: 1.3rem;
+      padding: 18px;
+    }
+  }
+  
+  /* Small desktops and large tablets (max-width: 992px) */
+  @media (max-width: 992px) {
+    body {
+      font-size: 16px;
+    }
+  
+    .rating-container,
+    .box-body {
+      width: 70%;
+    }
+  
+    .rating-button {
+      width: 55px;
+      height: 55px;
+      font-size: 1.2rem;
+    }
+  
+    .submit-button {
+      font-size: 1.2rem;
+      padding: 16px;
+    }
+  }
+  
+  /* Tablets (max-width: 768px) */
+  @media (max-width: 768px) {
+    body {
+      font-size: 15px;
+    }
+  
+    .rating-container,
+    .box-body {
+      width: 80%;
+    }
+  
+    .rating-button {
+      width: 50px;
+      height: 50px;
+      font-size: 1.1rem;
+    }
+  
+    .submit-button {
+      font-size: 1.1rem;
+      padding: 14px;
+    }
+  }
+  
+  /* Small tablets and large phones (max-width: 576px) */
+  @media (max-width: 576px) {
+    body {
+      font-size: 14px;
+    }
+  
+    .rating-container,
+    .box-body {
+      width: 90%;
+    }
+  
+    .rating-button {
+      width: 45px;
+      height: 45px;
+      font-size: 1rem;
+    }
+  
+    .submit-button {
+      font-size: 1rem;
+      padding: 12px;
+    }
+  }
